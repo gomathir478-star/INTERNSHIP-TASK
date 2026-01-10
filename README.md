@@ -1,4 +1,4 @@
-# FileHandlingUtility
+# CODTECH INTERNSHIP TASK
 
 **COMPANY** : CODTECH IT SOLUTIONS
 
